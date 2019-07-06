@@ -1,0 +1,440 @@
+*{
+	margin: 0px auto;
+}
+body{
+
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.htop{
+	width: 100%;
+	height: 30px;
+	background-color: red;
+	float: left;
+	display: block;
+}
+.htop-one{
+	width: 35%;
+	height: 30px;
+	background-color: maroon;
+	float: left;
+	display: block;
+
+}
+.htop-two{
+	width: 45%;
+	height: 30px;
+	background-color: yellow;
+	float: left;
+	display: block;
+
+}
+.htop-three{
+	width: 20%;
+	height: 30px;
+	background-color: orange;
+	float: left;
+	display: block;
+
+}
+.htop-three ul {
+    list-style: none;
+    display: block;
+    margin: -11px;
+}
+.htop-three ul li {
+    display: initial;
+    margin: 13px;
+    display: inline-block;
+}
+
+
+
+
+.hdown{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+	float: left;
+
+}
+.hlogo{
+	background-color: red;
+	width: 40%;
+	height: 100px;
+	float: left;
+
+}
+.hlogo h1{
+
+}
+.hmenu {
+    background-color: #d2d2e2;
+    width: 60%;
+    height: 100px;
+    float: left;
+
+}
+nav ul {
+    list-style: none;
+    margin: 42px 0px;
+}
+nav ul li {
+    display: inline;
+    margin: 24px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+.gallery {
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-color: green;
+    float: left;
+    margin-top: 10px;
+}
+.img-g {
+    background-color: #d46a6a;
+    width: 100%;
+    height: 350px;
+    float: right;
+    margin: 87px 0;
+}
+.img-g h2 {
+    margin: 74px 487px;
+    font-size: 48px;
+}
+.img-g p {
+    margin: -43px 43px;
+}
+.btn {
+    margin: -31px 410px;
+    display: block;
+    padding: 12px;
+}
+.btn-one {
+    margin: -40px 530px;
+    display: inline;
+    padding: 12px;
+}
+.nos{
+	background-color: red;
+	width: 100%;
+	height: 369px;
+	margin-top: 12px;
+	float: left;
+	display: block;
+
+}
+.web{
+	background-color: grey;
+	width: 25%;
+	height: 369px;
+	float: left;
+
+
+}
+.web p {
+    text-align: center;
+    margin: -183px 21px;
+}
+.design{
+	background-color: red;
+	width: 25%;
+	height: 369px;
+	float: left;
+
+
+}
+.design p {
+    text-align: center;
+    margin: -183px 21px;
+}
+.trafego{
+	background-color: blue;
+	width: 25%;
+	height: 369px;
+	float: left;
+
+}
+.trafego p {
+    text-align: center;
+    margin: -183px 21px;
+}
+.suporte{
+	background-color: pink;
+	width: 25%;
+	height: 369px;
+	float: left;
+
+}
+.suporte p {
+    text-align: center;
+    margin: -183px 21px;
+}
+.about-nos {
+    background-color: #fff700;
+    width: 100%;
+    height: 283px;
+    float: left;
+    margin-top: 12px;
+}
+.at-nos{
+	background-color: #fff700;
+	width: 60%;
+	height: 283px;
+	float: left;
+
+}
+.at-nos h4 {
+    font-size: xx-large;
+    color: #292928;
+}
+.at-nos-image{
+	background-image: url(../img/man.png);
+	background-repeat: no-repeat;
+	display: cover;
+	width: 40%;
+	height: 283px;
+	float: left;
+
+}
+.slide{
+	background-color: brown;
+	width: 100%;
+	height:500px;
+	float: left;
+	margin-top: 12px;
+}
+
+.at-slide {
+    background-color: green;
+    width: 100%;
+    height: 87px;
+    float: left;
+    margin-top: 50px;
+}
+.at-slide h5 {
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.at-slide img {
+    margin-left: 381px;
+}
+.at-slide-cont{
+	background-color: grey;
+	width:60%;
+	height: 350px;
+	float: left;
+
+}
+.at-slide-pic{
+	background-image: url(../img/pman.png);
+	display: cover;
+	background-color: wheat;
+	width: 40%;
+	height: 350px;
+	float: left;
+
+}
+.proces {
+	background-color: green;
+	width: 100%;
+	height: 353px;
+	float: left;
+	margin-top: 12px;
+
+}
+.proces h6 {
+    text-align: center;
+    font-size: xx-large;
+}
+.proces img {
+    margin: 5px 479px;
+}
+.proces p {
+    text-align: center;
+}
+.n-one {
+    background-color: wheat;
+    width: 25%;
+    height: 260px;
+    float: left;
+    margin-top: 20px;
+}
+.n-one p{
+
+}
+
+.n-one img {
+    margin: 3px 42px;
+}
+.n-one h1 {
+    margin: 0px 75px;
+}
+
+.n-two {
+    background-color: pink;
+    width: 25%;
+    height: 260px;
+    float: left;
+    margin-top: 20px;
+}
+.n-two img {
+    margin: 3px 42px;
+}
+.n-two h1 {
+    margin: 0px 75px;
+}
+.n-three {
+    background-color: white;
+    width: 25%;
+    height: 260px;
+    float: left;
+    margin-top: 20px;
+}
+.n-three img {
+    margin: 3px 42px;
+}
+.n-three h1 {
+    margin: 0px 75px;
+}
+.n-four {
+    background-color: pink;
+    width: 25%;
+    height: 260px;
+    float: left;
+    margin-top: 20px;
+}
+.n-four img {
+    margin: 3px 42px;
+}
+.n-four h1 {
+    margin: 0px 75px;
+}
+.tdown {
+	background-color: maroon;
+	width: 100%;
+	height: 420px;
+	float: left;
+	margin-top: 12px;
+
+}
+.tdown h6 {
+    text-align: center;
+    font-size: xx-large;
+    color: #c5c0b6;
+}
+.tdown img {
+    margin: 12px 494px;
+}
+.stwo {
+    background-color: white;
+    width: 50%;
+    height: 300px;
+    float: left;
+    margin: 43px 0;
+}
+.stwo h5{
+
+}
+.stwo img {
+    margin: 0 26px;
+}
+.sthree {
+    background-color: grey;
+    width: 50%;
+    height: 300px;
+    float: left;
+    margin: 43px 0;
+}
+.sthree img {
+    margin: 0;
+    padding: 82px 0px;
+}
+.lastp{
+	background-color: yellow;
+	width: 100%;
+	height: 580px;
+	float: left;
+	margin-top: 12px;
+}
+.lastp h5 {
+    text-align: center;
+    font-size: xx-large;
+}
+.lastp img {
+    margin: 3px 497px;
+}
+.lastp p {
+    text-align: center;
+}
+.create{
+	background-color: wheat;
+	width: 50%;
+	height:400px;
+	margin-top: 50px;
+	float: left;
+}
+.create h2 {
+    width: 99%;
+}
+input{
+	border: 1px solid blue;
+}
+input[type="name"] {
+    width: 56%;
+    padding: 10px;
+}
+input[type="email"] {
+    width: 56%;
+    padding: 10px;
+    margin-top: 10px;
+}
+input[type="message"] {
+    width: 56%;
+    padding: 10px;
+    height: 60px;
+    margin-top: 10px;
+}
+input.button {
+    width: 13%;
+    height: 35px;
+    margin: 7px 284px;
+}
+.contact{
+	background-color: grey;
+	width: 50%;
+	height:400px;
+	margin-top: 50px;
+	float: left;
+}
+.contact h2 {
+    text-align: center;
+}
+.contact p {
+    text-align: center;
+    margin: 16px;
+}
+.fsection {
+    background-color: #b9b2b2;
+    width: 100%;
+    height: 70px;
+    float: left;
+    margin-top: 2178px;
+}
+.foot {
+    background-color: #5f5c5c;
+    width: 100%;
+    height: 70px;
+    float: left;
+}
+.foot p {
+    color: #d86767;
+}
+
